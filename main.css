@@ -1,0 +1,178 @@
+ /* Design för dator  */
+body {
+    width: 100%;
+    margin: auto;
+    line-height: 3em;
+    font-size: 16px;
+    color: #333;
+    background-color: #f2f2f2;
+    font-family: montserrat, sans-serif;
+    font-weight: 400;
+
+}
+
+
+.voodoo {
+    width: 25%;
+    margin: auto;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.header-picture {
+    width: 112%;
+    margin: auto;
+    margin-top: -80px;
+    margin-left: -80px;
+    
+}
+
+.first-headline {
+    font-size: 55px;
+    margin-left: 640px;
+    margin-top: -70px;
+}
+
+.span-headline {
+    font-size: 20px;
+    margin-left: 300px;
+}
+
+.another {
+    font-size: 20px;
+    margin-left: 500px;
+    margin-top: -40px;
+}
+
+
+.second-headline {
+    font-size: 40px;
+    margin-left: 200px;
+
+}
+
+.phone1-picture {
+margin-top: -360px;
+height: 800px;
+float: right;
+
+}
+
+
+.phone2-picture {
+height: 800px;
+}
+
+.divspan {
+    font-size: 20px;
+}
+
+.divspan1 {
+    display: flex;
+}
+
+.span-phone2-picture {
+    font-size: 20px;
+    width: 40%;
+    margin-top: -42rem;
+    margin-left: 30rem;
+}
+
+.divspan2 {
+    display: flex;
+
+}
+.span2-phone2-picture {
+    font-size: 20px;
+    margin-right: 300px;
+    margin-left: 150px;
+    margin-top: -2rem;
+    width: 1000px;
+}
+
+
+.divspan {
+    display: flex;
+    width: 700px;
+}
+
+.span-second-headline {
+    font-size: 20px;
+    flex-direction: column;
+    margin-left: 60px;
+    line-height: 2rem;
+}
+
+
+.newsletter {
+    width: 100%;
+    margin: auto;
+}
+
+.newsletterheadline {
+    font-size: 40px;
+    margin-top: -400px;
+    margin-left: 460px;
+}
+
+.divnewsletter {
+    display: flex;
+}
+
+.span-newsletter {
+    font-size: 20px;
+    margin-left: 300px;
+    width: 800px;
+
+}
+
+.box2 {
+    height: 450px;
+    width: 100%;
+    background-color: rgb(44, 43, 43);
+}
+
+.livestream {
+    color: #fff;
+    font-size: 24px;
+    margin-top: -300px;
+    margin-left: 100px;
+
+}
+
+.span1livestream {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 100px;
+    width: 800px;
+    line-height: 20px;
+}
+
+
+.span1live {
+    display: flex;
+}
+
+
+.span2live {
+    display: flex;
+}
+
+.span2livestream {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: -140px;
+    width: 800px;
+    line-height: 20px;
+}
+
+video{
+   
+    margin-top: -500px;
+    width: 100%;
+    object-fit: cover;
+    
+}
