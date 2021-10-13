@@ -1,0 +1,146 @@
+/* Design för Iphone X */
+
+@media only screen and (max-width: 812px) { 
+    .header-picture {
+        width: 118%;
+        margin: auto;
+        margin-top: -40px;
+        margin-left: -25px; 
+    }
+    
+    .voodoo {
+        width: 25%;
+        margin: auto;
+        font-size: 13px;
+        text-align: center;
+        z-index: 1;
+               
+    }
+    .first-headline {
+        font-size: 20px;
+        margin-left: 160px;
+        margin-top: -60px;
+    }
+    .span-headline {
+        font-size: 10px;
+        margin-left: 60px;
+        margin-top: -20px;
+    }
+    .another {
+        font-size: 10px;
+        margin-left: 180px;
+        margin-top: -40px;
+        line-height: 35px;
+    }
+    .second-headline {
+        font-size: 20px;
+        margin-left: 20px;
+        margin-top: -60px;
+    
+    }
+    .phone1-picture {
+        margin-top: -200px;
+        height: 300px;
+        float: right;
+        
+        }
+     .phone2-picture {
+     height: 330px;
+    }       
+    
+    .divspan {
+        display: flex;
+        width: 200px;
+    }
+    .span-second-headline {
+        font-size: 10px;
+        flex-direction: column;
+        margin-left: 20px;
+        line-height: 1rem;
+    }
+
+    video{
+        margin-left: 1px;
+        margin-top: -100px;
+        width: 103%;
+        
+    }
+    .divspan1 {
+        display: flex;
+    }
+    .span-phone2-picture {
+        font-size: 10px;
+        width: 50%;
+        line-height: 20px;
+        margin-top: -310px;
+        margin-left: 12rem;
+}
+.divspan2 {
+    display: flex;
+}
+.span2-phone2-picture {
+    font-size: 10px;
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 100%;
+    line-height: 20px;
+}
+.newsletter {
+    width: 104%;
+    height: 200px;
+    margin: auto;
+}
+
+.newsletterheadline {
+    font-size: 18px;
+    margin-top: -180px;
+    margin-left: 110px;
+}
+
+.divnewsletter {
+    display: flex;
+}
+.span-newsletter {
+    font-size: 10px;
+    margin-left: 70px;
+    margin-top: -10px;
+    width: 400px;
+    line-height: 20px;
+
+}
+.box2 {
+    height: 450px;
+    width: 104%;
+    background-color: rgb(44, 43, 43);
+}
+.livestream {
+    color: #fff;
+    font-size: 14px;
+    margin-top: -420px;
+    margin-left: 20px;
+
+}
+.span1livestream {
+    color: #fff;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: -20px;
+    width: 400px;
+    line-height: 10px;
+    
+}
+
+.span2live {
+    display: flex;
+}
+
+.span2livestream {
+    color: #fff;
+    font-size: 10px;
+    margin-left: 260px;
+    margin-top: -70px;
+    width: 400px;
+    line-height: 10px;
+}
+}
