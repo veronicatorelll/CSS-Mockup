@@ -2,10 +2,10 @@
 
 @media only screen and (max-width: 812px) { 
     .header-picture {
-        width: 118%;
+        width: 130%;
         margin: auto;
         margin-top: -40px;
-        margin-left: -25px; 
+        margin-left: -40px; 
     }
     
     .voodoo {
